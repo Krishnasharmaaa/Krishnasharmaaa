@@ -2,44 +2,37 @@
 
 ## I'm Krishna Sharma
 
-🎓 4th Year B.Tech CSE (Data Science) Student  
-💻 Passionate about Software Development, AI & Machine Learning  
-🌱 Currently learning Deep Learning, React, and Backend Development  
-👯 Looking to collaborate on Open Source & AI Projects  
-💬 Ask me about Python, C++, Machine Learning, Web Development  
+🎓 **B.Tech in Computer Science & Engineering (Data Science)**
 
-📫 How to reach me:  
-- LinkedIn: https://www.linkedin.com/in/krishna-sharma-0b2a26257/  
-- GitHub: https://github.com/Krishnasharmaaa  
+I am a Software Engineer passionate about designing and building scalable, efficient, and impactful software solutions. My interests span **Backend Development, Full-Stack Development, Artificial Intelligence, and Machine Learning**. I enjoy solving challenging problems, writing clean and maintainable code, and continuously learning new technologies.
 
-⚡ Fun fact: I enjoy solving coding problems and building real-world projects.
+### 🚀 Technical Interests
 
----
+* Backend Development (Java, Spring Boot, Python, FastAPI)
+* Full-Stack Web Development
+* Artificial Intelligence & Machine Learning
+* Data Structures & Algorithms
+* REST APIs and Database Design
 
-## 🚀 Skills
-- Python  
-- C++  
-- JavaScript  
-- React.js  
-- Node.js  
-- Machine Learning  
-- Deep Learning  
-- SQL  
-- Git & GitHub  
+### 🌱 Currently Exploring
 
----
+* System Design
+* Cloud Technologies
+* Advanced Backend Architecture
+* Modern Web Development
 
-## 📌 Projects
-- 🫁 Lung Cancer Detection System  
-- 😊 Face Recognition System  
+### 🤝 Open to
 
----
+* Software Engineering Opportunities
+* Backend Development Roles
+* Open Source Contributions
+* Collaborative Technical Projects
 
-## 📊 Coding Profiles
-- LeetCode: https://leetcode.com/u/Krishna_sharma0441/  
-- CodeChef: https://www.codechef.com/users/krishna0441  
-- GeeksforGeeks: https://www.geeksforgeeks.org/profile/sharmakri10t6?tab=activity  
+### 📫 Connect with Me
+
+* **LinkedIn:** https://www.linkedin.com/in/krishna-sharma-0b2a26257/
+* **GitHub:** https://github.com/Krishnasharmaaa
 
 ---
 
-⭐ Thanks for visiting my profile!
+*"Striving to build reliable software, solve real-world problems, and continuously grow as a software engineer."*
